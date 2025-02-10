@@ -1,0 +1,20 @@
+{
+    "00274114194": {
+        "nombre": "TEJADA GODOY",
+        "apellido": "JORGE ALEXANDER",
+        "genero": "M",
+        "dni": "42452396",
+        "tipo": "A",
+        "fecha_nacimiento": "25/04/2000",
+        "fecha_emision": "16/06/2014"
+    },
+    "12345678901": {
+        "nombre": "PEREZ",
+        "apellido": "JUAN CARLOS",
+        "genero": "M",
+        "dni": "12345678",
+        "tipo": "B",
+        "fecha_nacimiento": "10/10/1995",
+        "fecha_emision": "05/05/2015"
+    }
+}
